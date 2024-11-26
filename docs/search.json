@@ -4,7 +4,10 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "Hello everyone\n\n\nOn this about page, you might want to add more information about yourself, the project, or course.\n\n\nMy name is Eric Delmelle, the instructor for the course.\nYou can find more information about me on my personal website.\nThis site is an example site showing how to use Quarto for the final project for MUSA 550, during fall 2024.\nWrite something about you\n\nor about something you like"
+    "text": "Hello everyone\n\n\nOn this about page, you might want to add more information about yourself, the project, or course.\n\n\nMy name is Dennis Espejo, a master’s student.\nYou can find more information about me on my personal website.\nThis site is an example site showing how to use Quarto for the final project for MUSA 550, during fall 2024.\nWrite something about you\n\nor about something you like",
+    "crumbs": [
+      "About Me"
+    ]
   },
   {
     "objectID": "analysis/4-folium.html",
@@ -60,7 +63,10 @@
     "href": "analysis/index.html",
     "title": "Analysis",
     "section": "",
-    "text": "Analysis\nThis section includes examples of technical analysis done using Jupyter notebooks. Each sub-section highlights different types of analyses and visualizations. In particular, it highlights that we can easily publish interactive visualizations produced with packages such as hvPlot, altair, or Folium, without losing any of the interactive features.\nOn this page, you might want to share more introductory or background information about the analyses to help guide the reader."
+    "text": "Analysis\nThis section includes examples of technical analysis done using Jupyter notebooks. Each sub-section highlights different types of analyses and visualizations. In particular, it highlights that we can easily publish interactive visualizations produced with packages such as hvPlot, altair, or Folium, without losing any of the interactive features.\nOn this page, you might want to share more introductory or background information about the analyses to help guide the reader.",
+    "crumbs": [
+      "Analysis"
+    ]
   },
   {
     "objectID": "analysis/2-static-images.html",
@@ -79,15 +85,21 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "MUSA 550: Final Project Template",
+    "title": "MUSA 550: Final Project",
     "section": "",
-    "text": "We can create beautiful websites that describe complex technical analyses in Python using Quarto and deploy them online using GitHub Pages. This combination of tools is a really powerful way to create and share your work. This website is a demo that is meant to be used to create your own Quarto website for the final project in MUSA 550.\nQuarto is a relatively new tool, but is becoming popular quickly. It’s a successor to the Rmarkdown ecosystem that combines functionality into a single tool and also extends its computation power to other languages. Most importantly for us, Quarto supports executing Python code, allowing us to convert Jupyter notebooks to HTML and share them online.\n\n\n\n\n\n\nImportant\n\n\n\nThis template site, including the layout it uses, is just a suggested place to start! For your final project, you’re welcome (and encouraged) to make as many changes as you like to best fit your project."
+    "text": "We can create beautiful websites that describe complex technical analyses in Python using Quarto and deploy them online using GitHub Pages. This combination of tools is a really powerful way to create and share your work. This website is a demo that is meant to be used to create your own Quarto website for the final project in MUSA 550.\nQuarto is a relatively new tool, but is becoming popular quickly. It’s a successor to the Rmarkdown ecosystem that combines functionality into a single tool and also extends its computation power to other languages. Most importantly for us, Quarto supports executing Python code, allowing us to convert Jupyter notebooks to HTML and share them online.\n\n\n\n\n\n\nImportant\n\n\n\nThis template site, including the layout it uses, is just a suggested place to start! For your final project, you’re welcome (and encouraged) to make as many changes as you like to best fit your project.",
+    "crumbs": [
+      "Welcome"
+    ]
   },
   {
     "objectID": "index.html#welcome",
     "href": "index.html#welcome",
-    "title": "MUSA 550: Final Project Template",
+    "title": "MUSA 550: Final Project",
     "section": "",
-    "text": "We can create beautiful websites that describe complex technical analyses in Python using Quarto and deploy them online using GitHub Pages. This combination of tools is a really powerful way to create and share your work. This website is a demo that is meant to be used to create your own Quarto website for the final project in MUSA 550.\nQuarto is a relatively new tool, but is becoming popular quickly. It’s a successor to the Rmarkdown ecosystem that combines functionality into a single tool and also extends its computation power to other languages. Most importantly for us, Quarto supports executing Python code, allowing us to convert Jupyter notebooks to HTML and share them online.\n\n\n\n\n\n\nImportant\n\n\n\nThis template site, including the layout it uses, is just a suggested place to start! For your final project, you’re welcome (and encouraged) to make as many changes as you like to best fit your project."
+    "text": "We can create beautiful websites that describe complex technical analyses in Python using Quarto and deploy them online using GitHub Pages. This combination of tools is a really powerful way to create and share your work. This website is a demo that is meant to be used to create your own Quarto website for the final project in MUSA 550.\nQuarto is a relatively new tool, but is becoming popular quickly. It’s a successor to the Rmarkdown ecosystem that combines functionality into a single tool and also extends its computation power to other languages. Most importantly for us, Quarto supports executing Python code, allowing us to convert Jupyter notebooks to HTML and share them online.\n\n\n\n\n\n\nImportant\n\n\n\nThis template site, including the layout it uses, is just a suggested place to start! For your final project, you’re welcome (and encouraged) to make as many changes as you like to best fit your project.",
+    "crumbs": [
+      "Welcome"
+    ]
   }
 ]
