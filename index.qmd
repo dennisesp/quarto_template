@@ -1,6 +1,6 @@
 ---
 title: "MUSA 550: Final Project "
-subtitle: "A geospatial"
+subtitle: "Analyzing Educational and Socioeconomic Disparities for Latino and Afro-Latino Communities in Philadelphia Through Geospatial Analysis"
 ---
 
 ## Welcome!
